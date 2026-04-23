@@ -1,12 +1,12 @@
 {
-  "export_job_id": "f3ea23ff-1cfb-4a9c-879a-dfab0f839358",
+  "export_job_id": "79cbf43b-f299-4da2-a3c4-a007527e1577",
   "id_short": 659852,
-  "published_at": "2026-04-19T19:19:45Z",
+  "published_at": "2026-04-23T19:24:27Z",
   "repo_name": "all-restaurants-in-minnesota-us-sample-659852",
   "sample_asset_name": "beamstation_659852_restaurants-us-mn_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/659852/beamstation_659852_restaurants-us-mn_SAMPLE_DIST.csv",
-  "sample_records": 850,
-  "sample_sha256": "74280d8a11a2adc3adbb0da332715846cc5c356d43f2a014a809620d46a16e08",
-  "sample_size_bytes": 2218915,
-  "total_records": 8503
+  "sample_records": 356,
+  "sample_sha256": "3aee66656636f72c027295a903952a898c2fce01005c3ef1e0873939b30685b7",
+  "sample_size_bytes": 990009,
+  "total_records": 3567
 }
